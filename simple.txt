@@ -1,3 +1,4 @@
 hello!
 hihi
 clone : add
+clone : add2
