@@ -2,3 +2,4 @@ hello!
 hihi
 clone : add
 clone : add2
+일부러 충돌 발생
